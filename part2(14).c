@@ -1,0 +1,1 @@
+// Write a program to allocate memory dynamically for a 1-D array using malloc.
